@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "$2b$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "admin",
+      "name": "Admin",
+      "email": "admin@emergency.com"
+    },
+    {
+      "name": "karan yadav",
+      "email": "karanya1810@gmail.com",
+      "username": "karanya18",
+      "password": "$2b$10$g7TB3HYdlUX2sqp7R3Y3IezMYnMvnDeb4U8YaCUOhFwBK9.Ih29Km",
+      "role": "user"
+    },
+    {
+      "name": "karan yadav",
+      "email": "karanya1810@gmail.com",
+      "username": "karanya",
+      "password": "$2b$10$Sw8R21xQuvEAKTYI1bph8eyzB7jgoQgctCnHK1bbJffVeClOOku3u",
+      "role": "user"
+    },
+    {
+      "name": "karan yadav",
+      "email": "karanya1810@gmail.com",
+      "username": "karanya23",
+      "password": "$2b$10$9jibtLd.lufTF1XPh9Vbu.kzxz6BzoXhBjy2C5pZwoKBSURFpBt82",
+      "role": "user"
+    },
+    {
+      "name": "karan yadav",
+      "email": "sprinceyadav23@gmail.com",
+      "username": "karanya230",
+      "password": "$2b$10$OqdEejD.g3XJ1BdJLVM8OueRVXv29O0i1et1496HxHI1ghWIPrPxW",
+      "role": "user"
+    },
+    {
+      "name": "suraj",
+      "email": "vishalyadav9235548706@gmail.com",
+      "username": "suraj23",
+      "password": "$2b$10$SYDARjw1enGNuc8ng33cW.3WcIf3mhiYPD2hRTfZYORrtgz3LIS1G",
+      "role": "user"
+    }
+  ]
+}
