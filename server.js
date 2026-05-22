@@ -28,8 +28,8 @@ let otpStore = {};
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'karanya1810@gmail.com',
-        pass: 'pizo kgyk bmqp bgzp'
+        user: process.env.EMAIL_USER,
+        pass: process.env.EMAIL_PASS
     }
 });
 
